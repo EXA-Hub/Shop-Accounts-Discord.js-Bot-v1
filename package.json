@@ -1,0 +1,31 @@
+{
+  "name": "exaaccountsshop",
+  "version": "1.0.0",
+  "description": "بوت بيع حسابات متطور من البروفيسور",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EXA-Hub/Shop-Accounts-Discord.js-Bot-v1.git"
+  },
+  "keywords": [
+    "exa",
+    "discord",
+    "shop",
+    "replit",
+    "github"
+  ],
+  "author": "zampx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EXA-Hub/Shop-Accounts-Discord.js-Bot-v1/issues"
+  },
+  "homepage": "https://github.com/EXA-Hub/Shop-Accounts-Discord.js-Bot-v1#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
